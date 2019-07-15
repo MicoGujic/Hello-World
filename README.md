@@ -1,2 +1,3 @@
 # Hello-World
-You started here..
+Greetings
+Interested in learning alot about React.js, CSS and adjacent necessities.
